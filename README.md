@@ -32,5 +32,4 @@ This project involved fine-tuning an existing AI model using a specifically desi
 
 ---
 
-## Visualizations
-![Training and Validation Loss Metrics](results/training-validation-loss.png)
+
